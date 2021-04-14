@@ -2,3 +2,4 @@ hello world
 devops training
 local repo and remote repo
 how to backup and push files
+how to fetch from remote to local
