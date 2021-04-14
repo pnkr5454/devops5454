@@ -5,3 +5,4 @@ how to backup and push files
 how to fetch from remote to local
 my nephew name is ashutosh and his brother name is revanth kartheek
 ashutosh is studying 5th standard
+revanth school name is sri chaitanya school
