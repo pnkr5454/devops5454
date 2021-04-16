@@ -8,3 +8,4 @@ ashutosh is studying 5th standard
 revanth is studying 7th standard
 revanth is not studied in sri chaitanya school
 revanth is studying in sri chaitanya school
+how to learn a git reset command 
