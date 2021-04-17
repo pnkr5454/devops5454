@@ -10,3 +10,4 @@ revanth is not studied in sri chaitanya school
 revanth is studying in sri chaitanya school
 today is class about revert command and pull request
 how to learn a git reset command 
+how to project using github
